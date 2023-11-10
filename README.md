@@ -1,2 +1,2 @@
-# akucintakamu.github.io
+# dayat.github.io
 website hlossen
